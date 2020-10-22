@@ -1,0 +1,95 @@
+body{
+    text-align: center;
+    margin: 0px;
+    width: 100%;
+   
+}
+.vagas {
+    width: 100px;
+    margin-right: 700px;
+    padding: 8px;
+}
+.menu {
+    padding: 20px;
+    list-style: none;
+
+    margin: 0px;
+    text-align: right;    
+}
+
+.menu .sub-menu a{
+    padding: 15px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+    border: 2px solid black; 
+    
+}
+.first {
+    margin-top: 100px;
+    background-color: rgb(156, 168, 167);
+    padding: 15px;
+    
+}
+.one {
+    position: absolute;
+    width: 200px;
+    padding: 40px;
+    margin-left: 15px;
+    z-index: 4;
+}
+.two {
+    position: absolute;
+    width: 400px;
+    padding: 100px;
+    margin-left: 80px;
+    z-index: 6;
+}
+.three {
+    position: absolute;
+    padding: 60px;
+    margin-left: 90px;
+    margin-top: 200px;
+}
+.four {
+    position: absolute;
+    padding: 50px;
+    margin-left: 430px;
+}
+.carrer {
+    margin-left: 600px;
+    margin-right: 20px;
+    margin-top: 250px;
+    text-align: justify;
+    font-size: 20px;
+}
+.container {
+    margin-right: 800px;
+    font-size: 12px;
+}
+.int {
+    margin-left: 600px;
+    width: 150px;
+}
+.form {
+    margin-left: 300px;
+    padding: 30px;
+    border: 2px black solid;
+    margin-left: 600px;
+    margin-right: 400px;
+}
+input, label {
+    font-size: 15px;
+    display: block;
+    text-align: start;
+    margin: 10px;
+}
+
+#flex {
+    font-size: 20px;
+    margin-left: 400px;
+}
+.information {
+    margin-left: 170px;
+}
