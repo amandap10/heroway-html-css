@@ -12,9 +12,10 @@ body{
 .menu {
     padding: 20px;
     list-style: none;
-
+    display: inline-flex;
+    align-items: center;
     margin: 0px;
-    text-align: right;    
+    text-align: right;   
 }
 
 .menu .sub-menu a{
